@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sanity project"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.985">
+  <properties />
+  
+  
+            <testcase name="anAustralianCominToUKForTourism" time="0.820" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+                <testcase name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" time="1.165" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      
+</testsuite>
